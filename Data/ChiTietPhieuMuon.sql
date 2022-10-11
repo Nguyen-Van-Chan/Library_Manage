@@ -1,0 +1,9 @@
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0001', 'SA0001'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0001', 'SA0002'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0001', 'SA0003'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0002', 'SA0001'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0002', 'SA0002'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0002', 'SA0003'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0004', 'SA0001'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0005', 'SA0001'); GO
+INSERT INTO [ChiTietPhieuMuon] ([MaPhieu], [MaSach]) VALUES ('PM0006', 'SA0001'); GO

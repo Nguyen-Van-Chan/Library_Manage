@@ -1,0 +1,5 @@
+INSERT INTO [PhieuMuon] ([MaPhieu], [NgayMuon], [NgayTra], [MaSinhVien], [ThuThu], [GhiChu], [TinhTrang]) VALUES ('PM0001', '2020-07-08 00:00:00.000', '2020-07-15 00:00:00.000', '915000123', 'a', N'', N'Chưa Được Trả'); GO
+INSERT INTO [PhieuMuon] ([MaPhieu], [NgayMuon], [NgayTra], [MaSinhVien], [ThuThu], [GhiChu], [TinhTrang]) VALUES ('PM0002', '2020-07-08 00:00:00.000', '2020-07-15 00:00:00.000', '915001', 'a', N'', N'Chưa Được Trả'); GO
+INSERT INTO [PhieuMuon] ([MaPhieu], [NgayMuon], [NgayTra], [MaSinhVien], [ThuThu], [GhiChu], [TinhTrang]) VALUES ('PM0004', '2020-06-10 00:00:00.000', '2020-06-17 00:00:00.000', '915006', 'a', N'', N'Chưa Được Trả'); GO
+INSERT INTO [PhieuMuon] ([MaPhieu], [NgayMuon], [NgayTra], [MaSinhVien], [ThuThu], [GhiChu], [TinhTrang]) VALUES ('PM0005', '2020-07-29 00:00:00.000', '2020-08-05 00:00:00.000', '915000123', 'a', N'', N'Chưa Được Trả'); GO
+INSERT INTO [PhieuMuon] ([MaPhieu], [NgayMuon], [NgayTra], [MaSinhVien], [ThuThu], [GhiChu], [TinhTrang]) VALUES ('PM0006', '2020-07-29 00:00:00.000', '2020-08-05 00:00:00.000', '915000123', 'a', N'', N'Chưa Được Trả'); GO

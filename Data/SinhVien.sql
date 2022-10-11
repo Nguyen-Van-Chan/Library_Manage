@@ -1,0 +1,10 @@
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915000123', N'Nguyễn Anh Tài', N'Nam', '1992-06-13 00:00:00', 2, '0332750464', 'nguyenvanc@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915001', N'Huỳnh Ngọc Huy Hoàng', N'nam', '2020-03-06 00:00:00', 2, '0125566998', 'abc@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915002', N'Phương Gia Bảo', N'nam', '2020-02-26 00:00:00', 2, '0344558877', 'ok@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915003', N'Trương Công Thuận', N'Nam', '2020-03-06 00:00:00', 3, '0344999333', 'aaa@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915004', N'Nguyễn Minh N', N'Nam', '2020-04-18 00:00:00', 1, '0344121233', 'nmqn@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915005', N'Nguyễn Thị A', N'Nữ', '2020-04-02 00:00:00', 2, '0344443333', 'nta@gmai.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915006', N'Nguyễn Minh Anh', N'Nam', '2020-04-25 00:00:00', 1, '0344737579', 'nma@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915007', N'Nguyễn Anh A', N'Nam', '2020-04-27 00:00:00', 2, '0344787970', 'nva@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915008', N'Nguyen anh p', N'nam', '2020-04-11 00:00:00', 3, '0344779955', 'ngg@gmail.com'); GO
+INSERT INTO [SinhVien] ([MaSinhVien], [TenSinhVien], [GioiTinh], [NgaySinh], [Lop], [DienThoai], [Email]) VALUES ('915009', N'Nguyen Minh I', N'nam ', '2020-04-02 00:00:00', 3, '0344998877', 'noo@gmail.com'); GO

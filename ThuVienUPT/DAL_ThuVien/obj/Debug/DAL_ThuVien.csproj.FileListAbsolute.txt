@@ -1,0 +1,71 @@
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\Tien Nguyen\documents\visual studio 2015\Projects\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\obj\Debug\DAL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\ThuVienUPT1\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\bang_cpopy\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\Admin\Desktop\LuanVanTotNghiep\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CoreCompileInputs.cache
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CopyComplete
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.AssemblyReference.cache
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CoreCompileInputs.cache
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CopyComplete
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+D:\project\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+D:\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.AssemblyReference.cache
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.AssemblyReference.cache
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\KHAI\Desktop\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CopyComplete
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.dll
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DAL_ThuVien.pdb
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.dll
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\bin\Debug\DTO_ThuVien.pdb
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.AssemblyReference.cache
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.csproj.CopyComplete
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.dll
+C:\Users\KHAI\Desktop\LT\QLTV_UPT\ThuVienUPT\DAL_ThuVien\obj\Debug\DAL_ThuVien.pdb

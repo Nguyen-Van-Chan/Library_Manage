@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01E3FDC5-319D-4534-AF89-CCFB4CA944AC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BUS_ThuVien</RootNamespace>
+    <AssemblyName>BUS_ThuVien</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS_ChiTietPhieuMuon.cs" />
+    <Compile Include="BUS_ChiTietPhieuNhap.cs" />
+    <Compile Include="BUS_KeSach.cs" />
+    <Compile Include="BUS_Khoa.cs" />
+    <Compile Include="BUS_LinhVuc.cs" />
+    <Compile Include="BUS_Lop.cs" />
+    <Compile Include="BUS_NganSach.cs" />
+    <Compile Include="BUS_NgonNgu.cs" />
+    <Compile Include="BUS_NguoiDung.cs" />
+    <Compile Include="BUS_NhaCungCap.cs" />
+    <Compile Include="BUS_NhaXuatBan.cs" />
+    <Compile Include="BUS_PhieuMuon.cs" />
+    <Compile Include="BUS_PhieuNhap.cs" />
+    <Compile Include="BUS_Sach.cs" />
+    <Compile Include="BUS_SachISBN.cs" />
+    <Compile Include="BUS_SinhVien.cs" />
+    <Compile Include="BUS_TacGia.cs" />
+    <Compile Include="BUS_TraSach.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL_ThuVien\DAL_ThuVien.csproj">
+      <Project>{2cad722d-eb4a-439f-a7da-6a3793a7aee0}</Project>
+      <Name>DAL_ThuVien</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO_ThuVien\DTO_ThuVien.csproj">
+      <Project>{9aa2cfb1-6e08-4803-b8bc-22fb9450f487}</Project>
+      <Name>DTO_ThuVien</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

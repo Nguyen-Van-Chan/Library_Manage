@@ -1,0 +1,10 @@
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (1, N'10TH111'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (2, N'10TH112'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (3, N'10th113'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (4, N'10TH114'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (5, N'10TH115'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (6, N'10TH116'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (7, N'10TH117'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (8, N'10TH118'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (9, N'10TH119'); GO
+INSERT INTO [Lop] ([MaLop], [TenLop]) VALUES (10, N'10TH120'); GO
