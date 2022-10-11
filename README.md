@@ -16,8 +16,6 @@
 
 ![image](https://user-images.githubusercontent.com/42131590/195008603-783d4332-8d10-4267-80e9-68c166ed64a8.png)
  <p align="center">
-![image](https://user-images.githubusercontent.com/42131590/195008603-783d4332-8d10-4267-80e9-68c166ed64a8.png)
-  <br>
   <strong>Happy Coding</strong> ❤️
 </p>
 ![image](https://user-images.githubusercontent.com/42131590/195008649-dd18f980-b578-4bda-8fbb-885cec239523.png)
