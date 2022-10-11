@@ -15,9 +15,6 @@
 ## Ảnh demo:
 
 ![image](https://user-images.githubusercontent.com/42131590/195008603-783d4332-8d10-4267-80e9-68c166ed64a8.png)
- <p align="center">
-  <strong>Happy Coding</strong> ❤️
-</p>
 ![image](https://user-images.githubusercontent.com/42131590/195008649-dd18f980-b578-4bda-8fbb-885cec239523.png)
 ![image](https://user-images.githubusercontent.com/42131590/195008716-51d9e41f-126c-40ac-b86b-c045702ccd3a.png)
 ![image](https://user-images.githubusercontent.com/42131590/195008736-e9e70c60-9c62-42ad-99a3-d51581133f28.png)
