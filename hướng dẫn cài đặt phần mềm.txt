@@ -1,0 +1,2 @@
+database: script
+cài đặt DEVEPRESS phiên bản 15.1.6. nếu phiên bản cao hơn phải cập nhật phiên bản của phần mềm lại
