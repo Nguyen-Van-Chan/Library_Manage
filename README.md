@@ -10,7 +10,7 @@
 - Mỗi nhà xuất bản gồm có các thông tin sau: tên nhà xuất bản, địa chỉ, số điện thoại, email để người đọc biết thông tin liên hệ.
 - Mỗi tác giả gồm các thông tin sau: tên tác giả, địa chỉ tác giả, số điện thoại, email…để liên lạc nếu cần.
 - Mỗi sinh viên sẽ bao gồm các thông tin: mã sinh viên, tên sinh viên, lớp, khoa,số điện thoại,…. Để có thể liên lạc cũng như lưu lại thông tin người mượn sách 
-- Xây dựng các mô hình cho ứng dụng: BFD, DFD, USE CASE, ERD, COMPONENT DIAGRAM, DEPLOYMENT DIAGRAM, 1.	ACTIVITY
+- Xây dựng các mô hình cho ứng dụng: BFD, DFD, USE CASE, ERD, COMPONENT DIAGRAM, DEPLOYMENT DIAGRAM, ACTIVITY
 
 ## Ảnh demo:
 
